@@ -1,5 +1,15 @@
 {
+  "name": "lodash-typescript",
+  "author": "Kevin Hendra",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "typescript": "2.8.1"
+  },
   "dependencies": {
-    "@types/lodash": "^4.14.149"
+    "@types/lodash": "^4.14.106",
+    "lodash": "^4.17.5"
   }
 }
